@@ -1,4 +1,4 @@
-# GridSet - Asset Management System
+#  Asset Management System
 
 asset management is a modern, web-based asset management system built with Django that helps organizations track and manage their assets efficiently.
 
